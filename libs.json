@@ -1,0 +1,12 @@
+{
+  "x86_64-linux": {
+    "url": "https://projects.blender.org/blender/lib-linux_x64.git",
+    "rev": "3cf676e54a5be98285c6d47633fbe1f26929bb5a",
+    "hash": "sha256-63SNsequOmEIg/iTDe/Xu+cJesdC3Wq3IT1VEyvbA5k="
+  },
+  "aarch64-linux": {
+    "url": "https://projects.blender.org/blender/lib-linux_arm64.git",
+    "rev": "52cf82cf5040550eb2cedd067ff7b1d3da24cbe5",
+    "hash": "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  }
+}
