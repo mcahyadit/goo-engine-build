@@ -63,7 +63,7 @@ _: {
         src = pkgs.fetchgit {
           url = "https://github.com/mcahyadit/goo-engine.git";
           rev = "d3dd2290a8f7322a07e4d4c37fd25a49ab4692ca";
-          hash = "sha256-VSJTj6k6dtyqSW1OOnJzD8PBzfer20yW5EhFSEAgvt4=";
+          hash = "sha256-Q5+NPwUJzZzbtJrFJpPIS2ffxpSpi7uaD2O7ksV0A0E=";
           fetchLFS = true;
         };
 
